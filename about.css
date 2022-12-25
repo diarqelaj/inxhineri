@@ -1,0 +1,140 @@
+/* about.css */
+#about {
+  text-align: center;
+}
+
+#about h1 {
+  font-size: 36px;
+  margin: 20px 0;
+}
+
+#about p {
+  font-size: 18px;
+  line-height: 1.5;
+  width: 80%;
+  margin: 0 auto;
+}
+
+#about img {
+  width: 300px;
+  height: auto;
+  border-radius: 50%;
+  margin: 20px 0;
+}
+
+#about .team {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 80%;
+  margin: 20px auto;
+}
+
+#about .team .member {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 30%;
+  margin: 10px;
+}
+
+#about .team .member img {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+
+#about .team .member h4 {
+  margin: 10px 0;
+}
+
+#about .team .member p {
+  text-align: center;
+}
+main {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+  }
+  
+  #home {
+    text-align: center;
+  }
+  
+  #home h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  #home a {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  
+  #about {
+    margin-bottom: 20px;
+  }
+  
+  #about h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  #books h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  #books li {
+    list-style: none;
+    margin-bottom: 10px;
+  }
+  
+  #books a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  #news h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  #news li {
+    list-style: none;
+    margin-bottom: 10px;
+  }
+  
+  #news a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  #contact {
+    margin-bottom: 20px;
+  }
+  
+  #contact h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  #book-details {
+    margin-bottom: 20px;
+  }
+  
+  #book-details h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  #news-details {
+    margin-bottom: 20px;
+  }
+  
+  #news-details h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
